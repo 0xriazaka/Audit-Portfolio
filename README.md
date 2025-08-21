@@ -9,8 +9,8 @@ This repository contains a collection of smart contract audits I've conducted ac
 | MaxDex | Move | Aptos | [report](https://hashlock.com/wp-content/uploads/2025/08/Max-Smart-Contract-Audit-Report-Final-Report-v4.pdf) |
 | Nodo v1, v2, v3, v4 | Move | Sui | [report v1 ](https://hashlock.com/wp-content/uploads/2025/06/Nodo-Smart-Contract-Audit-Report-Final-Report-v3.pdf), [report v2](https://hashlock.com/wp-content/uploads/2025/06/Nodo-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf), [report v3](https://hashlock.com/wp-content/uploads/2025/06/Nodo-3rd-Smart-Contract-Audit-Report-Final-Report-v1.pdf), [report v4](https://hashlock.com/wp-content/uploads/2025/06/Nodo-4th-Smart-Contract-Audit-Report-Final-Report-v1.pdf) |
 | Balanced Network | Move | Sui | soon |
-| Lotus Finanace | Move | Sui | soon |
-| bucket | Move | Sui | soon |
+| Lotus Finance | Move | Sui | soon |
+| bucket protocol | Move | Sui | soon |
 
 ## Contact Information
 
