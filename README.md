@@ -10,7 +10,8 @@ This repository contains a collection of smart contract audits I've conducted ac
 | Nodo v1, v2, v3, v4 | Move | Sui | [report v1 ](https://hashlock.com/wp-content/uploads/2025/06/Nodo-Smart-Contract-Audit-Report-Final-Report-v3.pdf), [report v2](https://hashlock.com/wp-content/uploads/2025/06/Nodo-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf), [report v3](https://hashlock.com/wp-content/uploads/2025/06/Nodo-3rd-Smart-Contract-Audit-Report-Final-Report-v1.pdf), [report v4](https://hashlock.com/wp-content/uploads/2025/06/Nodo-4th-Smart-Contract-Audit-Report-Final-Report-v1.pdf) |
 | Balanced Network | Move | Sui | soon |
 | Lotus Finance | Move | Sui | soon |
-| bucket protocol | Move | Sui | soon |
+| Bucket Protocol | Move | Sui | [report](https://github.com/Bucket-Protocol/Audit/blob/main/BucketV2/Hashlock_Bucket_V2_Report_Final_Report.pdf) |
+| Ithaca | Move | Sui | soon |
 
 ## Contact Information
 
