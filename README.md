@@ -11,7 +11,7 @@ This repository contains a collection of smart contract audits I've conducted ac
 | Balanced Network | Move | Sui | soon |
 | Lotus Finance | Move | Sui | soon |
 | Bucket Protocol | Move | Sui | [report](https://github.com/Bucket-Protocol/Audit/blob/main/BucketV2/Hashlock_Bucket_V2_Report_Final_Report.pdf) |
-| Ithaca | Move | Sui | soon |
+| Ithaca | Move | Sui | [report](https://hashlock.com/wp-content/uploads/2024/10/Ithaca-5th-Smart-Contract-Audit-Report-Final-Report-v2-.pdf) |
 | Ekiden | Move | Aptos | soon |
 
 ## Contact Information
