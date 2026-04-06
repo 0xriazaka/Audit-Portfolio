@@ -1,6 +1,6 @@
 # Smart Contract Audit Portfolio
 
-This repository contains a collection of smart contract audits I've conducted across various blockchain platforms including Aptos, Sui, and Move VM-based systems
+This repository contains a collection of smart contract audits I've conducted across various blockchain platforms including Aptos, Sui, Solana, and Move VM-based systems
 
 ## Audits Portfolio
 
